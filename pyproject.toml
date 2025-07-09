@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "get-papers-pubmed"
-version = "0.1.0"
+version = "0.1.1"
 description = "Fetch PubMed papers with authors from pharma/biotech companies"
 authors = ["AATHIOBUSRE <aathiobusre@gmail.com>"]
 license = "MIT"
