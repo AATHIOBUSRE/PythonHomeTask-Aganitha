@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "get-papers"
+version = "0.1.0"
+description = "Fetch PubMed papers from pharma/biotech authors"
+authors = [
+    "AATHIOBUSRE <aathiobusre@gmail.com>"
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+biopython = "^1.83"
+
+[tool.poetry.scripts]
+get-papers-list = "cli:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
