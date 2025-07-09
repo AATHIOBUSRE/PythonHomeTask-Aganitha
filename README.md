@@ -29,3 +29,12 @@ This tool was built using the Entrez API from **BioPython** and packaged using *
 ```bash
 git clone https://github.com/your-username/get-papers.git
 cd get-papers
+
+
+###2. Install depentencies
+poetry install
+
+###Usage
+poetry run get-papers-list "your search query"
+
+
