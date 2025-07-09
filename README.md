@@ -1,7 +1,3 @@
-📄 README.md
-markdown
-Copy
-Edit
 # get-papers-pubmed
 
 This is a command-line tool I built to fetch research papers from PubMed, but with a focus on filtering papers that have at least one author working in a pharmaceutical or biotech company.
@@ -63,45 +59,31 @@ It really helped me understand the workflow better, and I learned how to debug i
 
 If you're testing it from TestPyPI:
 
-```bash
 pip install -i https://test.pypi.org/simple get-papers-pubmed
 Or you can run it locally using Poetry.
 
 How to use
 After installing, you can run:
 
-bash
-Copy
-Edit
 get-papers-list "covid vaccine"
 If you want to save the output to a file:
 
-bash
-Copy
-Edit
+
 get-papers-list "covid vaccine" -f output.csv
 If you want to see help:
 
-bash
-Copy
-Edit
+
 get-papers-list --help
 You can also add --debug if you want to see what’s happening inside while it runs.
 
 Running locally
 Clone my repo and install dependencies:
 
-bash
-Copy
-Edit
 git clone https://github.com/AATHIOBUSRE/PythonHomeTask-Aganitha.git
 cd PythonHomeTask-Aganitha
 poetry install
 Run the tool like this:
 
-bash
-Copy
-Edit
 poetry run get-papers-list "your query here"
 About me
 I'm AATHIOBUSRE. I made this project as part of a task, but I also wanted to learn how Python packaging and publishing works.
