@@ -90,14 +90,3 @@ I'm AATHIOBUSRE. I made this project as part of a task, but I also wanted to lea
 
 Email: aathiobusre@gmail.com
 GitHub: https://github.com/AATHIOBUSRE
-
-License
-MIT License — you’re free to use, share, and improve it.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want this copied into a `README.md` file directly or pushed to your GitHub!
