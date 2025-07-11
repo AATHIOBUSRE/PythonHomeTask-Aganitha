@@ -39,6 +39,7 @@ For version control, I used **Git** and uploaded everything to my GitHub repo.
 - [GitHub](https://github.com/AATHIOBUSRE/PythonHomeTask-Aganitha): I pushed my code here.
 - [Poetry Documentation](https://python-poetry.org): I followed this to learn how to build and publish a package.
 - [Tutorial](https://biopython.org/docs/dev/Tutorial/chapter_entrez.html): I learned this tutorial to get and fetch the details of Papers
+- [Publishment](https://test.pypi.org/project/get-papers-pubmed/): Published in Python Package Index
 
 ---
 
