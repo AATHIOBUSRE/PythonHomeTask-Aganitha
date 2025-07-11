@@ -7,6 +7,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("query", help="PubMed search query")
     parser.add_argument("-f", "--file", help="CSV file to save output")
+    parser.add_argument("-d", "--debug", action="store_true", help="Enable debug output")
 
     args = parser.parse_args()
 
