@@ -38,7 +38,7 @@ For version control, I used **Git** and uploaded everything to my GitHub repo.
 - [TestPyPI](https://test.pypi.org): To test publishing my package before uploading to the real PyPI.
 - [GitHub](https://github.com/AATHIOBUSRE/PythonHomeTask-Aganitha): I pushed my code here.
 - [Poetry Documentation](https://python-poetry.org): I followed this to learn how to build and publish a package.
-- [Tutorial].(https://biopython.org/docs/dev/Tutorial/chapter_entrez.html)-I learned this tutorial to get and fetch the details of Papers
+- [Tutorial](https://biopython.org/docs/dev/Tutorial/chapter_entrez.html): I learned this tutorial to get and fetch the details of Papers
 
 ---
 
